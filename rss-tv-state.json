@@ -475,7 +475,11 @@
     "https://finance.yahoo.com/news/bigbear-ai-bbai-partners-washington-005335904.html",
     "https://finance.yahoo.com/news/amazon-amzn-stock-gets-280-005600619.html",
     "https://www.wsj.com/politics/policy/mortgage-fraud-accusations-are-trumps-new-political-weapon-05641cfd?siteid=yhoof2&yptr=yahoo",
-    "https://www.wsj.com/business/retail/target-new-ceo-michael-fiddelke-008c0280?siteid=yhoof2&yptr=yahoo"
+    "https://www.wsj.com/business/retail/target-new-ceo-michael-fiddelke-008c0280?siteid=yhoof2&yptr=yahoo",
+    "https://finance.yahoo.com/news/vanguard-mega-cap-etf-simplest-200500717.html",
+    "https://finance.yahoo.com/news/why-analysts-nvidia-remains-best-010101372.html",
+    "https://finance.yahoo.com/news/salesforce-crm-gets-430-price-010330251.html",
+    "https://finance.yahoo.com/news/tesla-tsla-robotaxi-demo-wows-010552738.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [],
@@ -538,6 +542,7 @@
     "https://www.nytimes.com/2025/08/23/health/prescription-drugs-manufacturing-tariffs.html",
     "https://www.nytimes.com/article/student-loan-repayment-options.html",
     "https://www.nytimes.com/2025/08/23/business/small-business/board-games-trump-tariffs-china.html",
-    "https://www.nytimes.com/2025/08/23/business/dealbook/future-nick-foster.html"
+    "https://www.nytimes.com/2025/08/23/business/dealbook/future-nick-foster.html",
+    "https://www.nytimes.com/2025/08/23/business/powell-fed-trump-economy-jackson-hole.html"
   ]
 }
