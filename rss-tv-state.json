@@ -1247,7 +1247,11 @@
     "https://finance.yahoo.com/news/ubs-lifts-pt-permian-resources-144552491.html",
     "https://finance.yahoo.com/news/decline-overdone-fiserv-fi-150002438.html",
     "https://finance.yahoo.com/news/why-burke-wealth-management-sold-145742973.html",
-    "https://finance.yahoo.com/news/3-habits-keeping-millennial-middle-144725482.html"
+    "https://finance.yahoo.com/news/3-habits-keeping-millennial-middle-144725482.html",
+    "https://finance.yahoo.com/news/why-berkshire-hathaway-brk-b-151203578.html",
+    "https://finance.yahoo.com/news/greenskeeper-asset-management-value-fund-150850277.html",
+    "https://finance.yahoo.com/news/why-greenskeeper-asset-management-added-150235752.html",
+    "https://finance.yahoo.com/news/crescent-energy-absorb-vital-3-151203451.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [],
@@ -1268,7 +1272,8 @@
   ],
   "https://moxie.foxbusiness.com/google-publisher/markets.xml": [
     "https://www.foxbusiness.com/markets/trumps-401k-expansion-fuels-ethereum-boom",
-    "https://www.foxbusiness.com/markets/cracker-barrel-stock-plunges-amid-brand-makeover-backlash"
+    "https://www.foxbusiness.com/markets/cracker-barrel-stock-plunges-amid-brand-makeover-backlash",
+    "https://www.foxbusiness.com/markets/trump-defends-11b-intel-stake-says-he-make-deals-like-all-day-long"
   ],
   "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml": [
     "https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html",
