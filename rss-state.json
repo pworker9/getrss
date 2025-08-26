@@ -1,5 +1,11 @@
 {
-  "https://fetchrss.com/feed/aIY7D11o9AUyaIY-59aSB8ji.rss": [],
+  "https://fetchrss.com/feed/aIY7D11o9AUyaIY-59aSB8ji.rss": [
+    "https://www.bloomberg.com/news/articles/2025-08-25/lactalis-to-pay-2-5-billion-for-fonterra-unit-as-bega-settles?srnd=phx-deals",
+    "https://www.bloomberg.com/news/articles/2025-08-25/french-cocoa-trader-touton-in-talks-for-sale-to-hartree-partners?srnd=phx-deals",
+    "https://www.bloomberg.com/news/articles/2025-08-25/airtrunk-seals-a-16b-refi-plans-fresh-sales-to-fuel-expansion?srnd=phx-deals",
+    "https://www.bloomberg.com/news/articles/2025-08-25/berkshire-isn-t-in-market-for-railroad-purchase-buffett-says?srnd=phx-deals",
+    "https://www.bloomberg.com/news/articles/2025-08-25/jab-unlocks-12-5-billion-to-pivot-away-from-its-big-coffee-bet?srnd=phx-deals"
+  ],
   "https://fetchrss.com/feed/aIY7D11o9AUyaIY6se6UEXUy.rss": [
     "https://markets.businessinsider.com/news/commodities/gold-price-today-forecast-goldman-sachs-manhattan-real-estate-comparison-2025-8",
     "https://markets.businessinsider.com/news/commodities/copper-prices-crash-traders-import-stockpiles-tariff-exemption-metal-2025-7",
@@ -15,7 +21,12 @@
     "https://www.businessinsider.com/airbnb-cofounder-now-us-first-chief-design-officer-2025-8",
     "https://www.businessinsider.com/lovable-ceo-computer-science-degree-no-longer-entry-ticket-tech-2025-8",
     "https://www.businessinsider.com/why-china-is-winning-ev-race-uber-ceo-dara-khosrowshahi-2025-8",
-    "https://www.businessinsider.com/fonzi-hiring-matching-software-engineers-with-employers-jobs-2025-8"
+    "https://www.businessinsider.com/fonzi-hiring-matching-software-engineers-with-employers-jobs-2025-8",
+    "https://www.businessinsider.com/ai-use-gaining-in-hollywood-stigma-secret-2025-8",
+    "https://www.businessinsider.com/de-minimis-how-tariff-change-small-packages-affects-your-orders-2025-8",
+    "https://www.businessinsider.com/stock-market-sell-america-investing-us-economy-outlook-american-exceptionalism-2025-8",
+    "https://www.businessinsider.com/sc/how-to-prevent-costly-tech-errors-in-small-businesses",
+    "https://www.businessinsider.com/silicon-valley-immigrants-david-friedberg-tech-investor-2025-8"
   ],
   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069": [
     "https://www.cnbc.com/2025/08/22/crypto-market-today.html",
