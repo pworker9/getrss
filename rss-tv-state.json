@@ -2087,7 +2087,13 @@
     "https://finance.yahoo.com/news/medical-device-firms-stock-spikes-201843107.html",
     "https://finance.yahoo.com/news/non-grantor-trusts-could-stack-201852766.html",
     "https://www.wsj.com/finance/stocks/dow-loses-about-350-points-after-record-breaking-run-4fa9744f?siteid=yhoof2&yptr=yahoo",
-    "https://finance.yahoo.com/news/historical-weight-500-etf-dspy-203948552.html"
+    "https://finance.yahoo.com/news/historical-weight-500-etf-dspy-203948552.html",
+    "https://finance.yahoo.com/news/watch-intel-stock-price-levels-202445801.html",
+    "https://finance.yahoo.com/news/grayscale-files-convert-avalanche-trust-202400601.html",
+    "https://finance.yahoo.com/news/citi-executive-warns-stablecoin-interest-202759337.html",
+    "https://finance.yahoo.com/news/bitcoin-not-rising-quickly-enough-203110676.html",
+    "https://www.barrons.com/articles/starbucks-stock-price-fall-menu-f8c58bb1?siteid=yhoof2&yptr=yahoo",
+    "https://finance.yahoo.com/news/stocks-settle-lower-bond-yields-204433353.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [],
@@ -2105,7 +2111,8 @@
     "https://www.foxbusiness.com/economy/european-asian-postal-services-halt-shipments-us-end-tariff-exemption",
     "https://www.foxbusiness.com/economy/ice-cream-sold-walmarts-across-16-states-recalled-due-undeclared-allergen",
     "https://www.foxbusiness.com/economy/southwest-rolls-out-new-conditions-plus-size-passenger-refunds",
-    "https://www.foxbusiness.com/economy/trump-imposes-additional-25-tariffs-india-tied-russian-oil-purchases"
+    "https://www.foxbusiness.com/economy/trump-imposes-additional-25-tariffs-india-tied-russian-oil-purchases",
+    "https://www.foxbusiness.com/economy/gm-recalls-more-than-23000-corvettes-over-fuel-leak-issue-linked-fires"
   ],
   "https://moxie.foxbusiness.com/google-publisher/markets.xml": [
     "https://www.foxbusiness.com/markets/trumps-401k-expansion-fuels-ethereum-boom",
