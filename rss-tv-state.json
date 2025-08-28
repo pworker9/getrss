@@ -3145,7 +3145,14 @@
     "https://www.wsj.com/finance/banking/td-bank-swings-to-quarterly-profit-as-credit-loss-provision-drops-705121c4?siteid=yhoof2&yptr=yahoo",
     "https://finance.yahoo.com/news/flexport-partners-blackrock-250-million-162744382.html",
     "https://finance.yahoo.com/news/best-buy-stock-falls-as-guidance-reveals-doubts-about-tariff-impacts-173706731.html",
-    "https://finance.yahoo.com/news/stablecoin-platform-m0-raises-40-171659917.html"
+    "https://finance.yahoo.com/news/stablecoin-platform-m0-raises-40-171659917.html",
+    "https://www.investors.com/research/ibd-stock-of-the-day/cameco-ccj-stock-of-the-day-data-centers/?src=A00220&yptr=yahoo",
+    "https://finance.yahoo.com/research/reports/ARGUS_3262_AnalystReport_1756399683000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "https://finance.yahoo.com/research/reports/ARGUS_5848_AnalystReport_1756399683000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "https://finance.yahoo.com/news/why-domo-stock-plummeting-today-172018166.html",
+    "https://finance.yahoo.com/research/reports/ARGUS_2686_AnalystReport_1756399683000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "https://finance.yahoo.com/news/nike-cut-1-corporate-staff-164451800.html",
+    "https://finance.yahoo.com/news/real-gdp-grows-3-3-170505526.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [],
@@ -3167,7 +3174,8 @@
     "https://www.foxbusiness.com/economy/gm-recalls-more-than-23000-corvettes-over-fuel-leak-issue-linked-fires",
     "https://www.foxbusiness.com/economy/trump-fired-fed-governor-lisa-cook-over-alleged-mortgage-fraud-what-did-she-do",
     "https://www.foxbusiness.com/economy/amtrak-launches-faster-updated-acela-train-service-trump-admin-takes-dc-union-station-control",
-    "https://www.foxbusiness.com/economy/us-economy-grew-faster-pace-q2-following-commerce-department-revision"
+    "https://www.foxbusiness.com/economy/us-economy-grew-faster-pace-q2-following-commerce-department-revision",
+    "https://www.foxbusiness.com/economy/mortgage-rates-august-28-2025"
   ],
   "https://moxie.foxbusiness.com/google-publisher/markets.xml": [
     "https://www.foxbusiness.com/markets/trumps-401k-expansion-fuels-ethereum-boom",
