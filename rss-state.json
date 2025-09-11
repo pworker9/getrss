@@ -2157,7 +2157,8 @@
     "https://www.marketwatch.com/story/this-midwestern-hub-for-beer-and-harleys-has-the-hottest-housing-market-in-america-right-now-44dc18b1?mod=mw_rss_topstories",
     "https://www.marketwatch.com/story/stocks-and-bonds-are-sending-very-different-messages-about-recession-risks-fcd4d248?mod=mw_rss_topstories",
     "https://www.marketwatch.com/story/as-jobless-claims-rise-unemployment-benefits-arent-keeping-up-with-inflation-heres-what-to-know-d28ef798?mod=mw_rss_topstories",
-    "https://www.marketwatch.com/story/a-likely-bid-by-paramount-for-warner-bros-discovery-means-the-big-media-roll-up-is-underway-26ba9720?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/a-likely-bid-by-paramount-for-warner-bros-discovery-means-the-big-media-roll-up-is-underway-26ba9720?mod=mw_rss_topstories",
+    "https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories"
   ],
   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135": [
     "https://www.cnbc.com/2025/08/21/workday-wday-q2-earnings-report-2026.html",
@@ -2203,7 +2204,8 @@
     "https://www.cnbc.com/2025/09/09/oracle-orcl-q1-earnings-report-2026.html",
     "https://www.cnbc.com/2025/09/09/stocks-making-the-biggest-moves-after-hours-orcl-gme-snps.html",
     "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
-    "https://www.cnbc.com/2025/09/11/adobe-adbe-q3-2025-earnings-report.html"
+    "https://www.cnbc.com/2025/09/11/adobe-adbe-q3-2025-earnings-report.html",
+    "https://www.cnbc.com/2025/09/11/stocks-making-the-biggest-moves-after-hours-adobe-rh-super-micro-computer-more.html"
   ],
   "https://www.sec.gov/news/pressreleases.rss": [
     "https://www.sec.gov/newsroom/press-releases/2025-108-sec-names-judge-margaret-ryan-director-division-enforcement",
@@ -2213,7 +2215,8 @@
     "https://www.sec.gov/newsroom/press-releases/2025-112-sec-cftc-issue-joint-statement-regulatory-harmonization-efforts-will-co-host-roundtable-sept-29",
     "https://www.sec.gov/newsroom/press-releases/2025-113-sec-announces-formation-cross-border-task-force-combat-fraud",
     "https://www.sec.gov/newsroom/press-releases/2025-114-sec-crypto-task-force-host-roundtable-financial-surveillance-privacy",
-    "https://www.sec.gov/newsroom/press-releases/2025-115-james-moloney-named-director-division-corporation-finance"
+    "https://www.sec.gov/newsroom/press-releases/2025-115-james-moloney-named-director-division-corporation-finance",
+    "https://www.sec.gov/newsroom/press-releases/2025-116-sec-investor-advisory-committee-host-panels-discuss-reconsideration-eligibility-criteria-regulatory"
   ],
   "https://www.investing.com/rss/news_25.rss": [
     "https://www.investing.com/news/stock-market-news/china-proposes-draft-rules-on-internet-platform-pricing-4207848",
@@ -4898,6 +4901,8 @@
     "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-056-4236110",
     "https://www.investing.com/news/stock-market-news/stock-market-today-sp-500-record-run-persists-as-bets-on-fed-ratecut-stay-firm-4234632",
     "https://www.investing.com/news/stock-market-news/trailblazer-acquisition-completes-275-million-ipo-on-nasdaq-432SI-4236026",
-    "https://www.investing.com/news/stock-market-news/adobe-raises-annual-revenue-and-profit-forecasts-on-strong-design-software-demand-4236138"
+    "https://www.investing.com/news/stock-market-news/adobe-raises-annual-revenue-and-profit-forecasts-on-strong-design-software-demand-4236138",
+    "https://www.investing.com/news/stock-market-news/boeing-falling-behind-on-certifying-its-777x-ceo-says-4236189",
+    "https://www.investing.com/news/stock-market-news/afterhours-movers-adobe-systems-rh-super-micro-computer-432SI-4236128"
   ]
 }
