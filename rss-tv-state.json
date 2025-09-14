@@ -13270,10 +13270,14 @@
     "https://finance.yahoo.com/news/trump-latest-tax-bill-means-111628277.html",
     "https://finance.yahoo.com/news/1-magnificent-stock-under-500-130002850.html",
     "https://finance.yahoo.com/news/polymarket-targets-10b-valuation-amid-112800558.html",
-    "https://finance.yahoo.com/news/2-growth-stocks-buy-hold-113000042.html"
+    "https://finance.yahoo.com/news/2-growth-stocks-buy-hold-113000042.html",
+    "https://finance.yahoo.com/news/buffett-backed-dividend-stock-stands-114500470.html",
+    "https://finance.yahoo.com/news/2-beaten-down-stocks-buy-114500156.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
-  "https://rss.politico.com/economy.xml": [],
+  "https://rss.politico.com/economy.xml": [
+    "https://www.politico.com/news/2025/09/13/trump-is-selling-a-strong-economy-voters-arent-buying-it-00561986"
+  ],
   "https://rss.politico.com/morningmoney.xml": [
     "https://www.politico.com/newsletters/morning-money/2025/08/21/its-football-season-on-wall-street-00517371",
     "https://www.politico.com/newsletters/morning-money/2025/09/02/who-will-stand-up-for-the-fed-00539146",
