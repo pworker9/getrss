@@ -14790,7 +14790,14 @@
     "https://www.barrons.com/articles/workday-stock-elliott-investment-sana-6ffac4bc?siteid=yhoof2&yptr=yahoo",
     "https://finance.yahoo.com/news/quantum-computing-missing-piece-ai-112500979.html",
     "https://www.barrons.com/articles/nvidia-stock-china-banned-chips-ceb53357?siteid=yhoof2&yptr=yahoo",
-    "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-fed-01e6c56b?siteid=yhoof2&yptr=yahoo"
+    "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-fed-01e6c56b?siteid=yhoof2&yptr=yahoo",
+    "https://finance.yahoo.com/news/indian-miner-vedanta-continue-coal-115506785.html",
+    "https://finance.yahoo.com/news/sands-capital-global-growth-fund-114932910.html",
+    "https://finance.yahoo.com/news/bofa-raises-us-minimum-hourly-114839128.html",
+    "https://finance.yahoo.com/news/intercontinental-exchange-ice-able-sustain-114744943.html",
+    "https://finance.yahoo.com/news/inner-mongolia-halts-15-coal-115023091.html",
+    "https://finance.yahoo.com/news/meet-monster-stock-continues-crush-113000804.html",
+    "https://finance.yahoo.com/news/c3-ais-ceo-help-turn-113000006.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [
@@ -14858,7 +14865,8 @@
     "https://www.foxbusiness.com/economy/social-security-beneficiaries-expected-get-bigger-cola-amid-persistent-inflation",
     "https://www.foxbusiness.com/economy/united-airlines-ceo-gives-5-word-prediction-low-cost-rival-go-out-business",
     "https://www.foxbusiness.com/economy/8-employers-fired-staff-mocking-charlie-kirks-assassination",
-    "https://www.foxbusiness.com/economy/fed-expected-cut-rates-first-time-2025-amid-trump-pressure"
+    "https://www.foxbusiness.com/economy/fed-expected-cut-rates-first-time-2025-amid-trump-pressure",
+    "https://www.foxbusiness.com/economy/ben-jerrys-cofounder-leaves-business-after-47-years-claiming-hes-been-silenced-unilever"
   ],
   "https://moxie.foxbusiness.com/google-publisher/markets.xml": [
     "https://www.foxbusiness.com/markets/trumps-401k-expansion-fuels-ethereum-boom",
@@ -15244,6 +15252,7 @@
     "https://www.nytimes.com/2025/09/17/business/what-to-watch-federal-reserve-september-meeting.html",
     "https://www.nytimes.com/2025/09/17/business/investors-are-bullish-as-a-pivotal-fed-decision-looms.html",
     "https://www.nytimes.com/2025/09/17/travel/marathon-tour-operators.html",
-    "https://www.nytimes.com/2025/09/17/business/ben-and-jerrys-cofounder-resigns.html"
+    "https://www.nytimes.com/2025/09/17/business/ben-and-jerrys-cofounder-resigns.html",
+    "https://www.nytimes.com/2025/09/17/business/dealbook/powell-fed-rates.html"
   ]
 }
