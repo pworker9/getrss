@@ -23423,7 +23423,16 @@
     "https://finance.yahoo.com/news/why-red-hot-energy-fuels-171048296.html",
     "https://www.wsj.com/articles/financial-services-roundup-market-talk-48c199c0?siteid=yhoof2&yptr=yahoo",
     "https://finance.yahoo.com/news/why-curaleaf-stock-dropped-today-170607661.html",
-    "https://www.wsj.com/articles/basic-materials-roundup-market-talk-0a9d0fcd?siteid=yhoof2&yptr=yahoo"
+    "https://www.wsj.com/articles/basic-materials-roundup-market-talk-0a9d0fcd?siteid=yhoof2&yptr=yahoo",
+    "https://finance.yahoo.com/news/jim-cramer-shares-very-important-174234413.html",
+    "https://www.investors.com/research/micron-technology-stock-mu-ai-new-buy-point-markets-investing/?src=A00220&yptr=yahoo",
+    "https://finance.yahoo.com/news/electronic-arts-going-private-another-173931791.html",
+    "https://finance.yahoo.com/news/skyworks-solutions-swks-strong-balance-173644751.html",
+    "https://finance.yahoo.com/news/franklin-resources-ben-leverages-cash-173448431.html",
+    "https://finance.yahoo.com/news/veja-walks-walk-floor-173000676.html",
+    "https://finance.yahoo.com/news/why-oklo-stock-dropped-today-172247587.html",
+    "https://finance.yahoo.com/news/why-paychex-stock-fell-tuesday-172100698.html",
+    "https://finance.yahoo.com/news/coreweave-soaring-again-time-buy-171657596.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [
@@ -23521,7 +23530,8 @@
     "https://www.foxbusiness.com/economy/electronic-arts-explores-going-private-major-50b-buyout-deal-investor-group",
     "https://www.foxbusiness.com/economy/electronic-arts-going-private-major-55b-buyout-deal-from-investor-group",
     "https://www.foxbusiness.com/economy/airlines-warn-government-shutdown-could-disrupt-flights-strain-aviation-system",
-    "https://www.foxbusiness.com/economy/trump-administration-federal-reserve-cbo-release-conflicting-economic-forecasts-next-four-years"
+    "https://www.foxbusiness.com/economy/trump-administration-federal-reserve-cbo-release-conflicting-economic-forecasts-next-four-years",
+    "https://www.foxbusiness.com/economy/new-yorks-financial-sector-losing-ground-rivals"
   ],
   "https://moxie.foxbusiness.com/google-publisher/markets.xml": [
     "https://www.foxbusiness.com/markets/trumps-401k-expansion-fuels-ethereum-boom",
@@ -24103,6 +24113,7 @@
     "https://www.nytimes.com/2025/09/30/technology/chatgpt-teen-parental-controls-openai.html",
     "https://www.nytimes.com/2025/09/30/business/dealbook/federal-shutdown-economic-stakes.html",
     "https://www.nytimes.com/2025/09/30/business/government-shutdown-economic-data.html",
-    "https://www.nytimes.com/2025/09/30/business/economy/defense-spending-startups.html"
+    "https://www.nytimes.com/2025/09/30/business/economy/defense-spending-startups.html",
+    "https://www.nytimes.com/2025/09/30/health/trump-pfizer-trumprx-medications.html"
   ]
 }
