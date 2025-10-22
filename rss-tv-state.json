@@ -36942,7 +36942,11 @@
     "https://finance.yahoo.com/news/crypto-markets-today-bitcoin-ether-120000970.html",
     "https://finance.yahoo.com/news/crypto-alert-3-exchanges-just-115609527.html",
     "https://finance.yahoo.com/news/gm-q3-net-income-tumbles-115400147.html",
-    "https://finance.yahoo.com/news/five-below-expands-pacific-northwest-115700970.html"
+    "https://finance.yahoo.com/news/five-below-expands-pacific-northwest-115700970.html",
+    "https://finance.yahoo.com/news/bnb-falls-3-3-market-120340626.html",
+    "https://finance.yahoo.com/news/citi-foundation-putting-25m-toward-122237067.html",
+    "https://finance.yahoo.com/news/soybeans-extending-strength-tuesday-am-122800625.html",
+    "https://finance.yahoo.com/news/corn-slipping-back-start-tuesday-122800997.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [
@@ -37174,7 +37178,8 @@
     "https://www.foxbusiness.com/markets/blackrocks-bragging-rights-fastest-growing-etfs",
     "https://www.foxbusiness.com/markets/merck-breaks-ground-3b-manufacturing-plant-virginia",
     "https://www.foxbusiness.com/markets/beyond-meat-walmart-meme-etf",
-    "https://www.foxbusiness.com/markets/nevada-player-turns-3-bet-1m-jackpot-wheel-fortune-progressive-slot-machine"
+    "https://www.foxbusiness.com/markets/nevada-player-turns-3-bet-1m-jackpot-wheel-fortune-progressive-slot-machine",
+    "https://www.foxbusiness.com/markets/molson-coors-cut-hundreds-jobs-major-restructuring-plan"
   ],
   "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml": [
     "https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html",
@@ -38008,6 +38013,7 @@
     "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
     "https://www.nytimes.com/2025/10/22/business/energy-environment/electric-bill-questionnaire.html",
     "https://www.nytimes.com/2025/10/22/us/politics/china-trump-rare-earths.html",
-    "https://www.nytimes.com/2025/10/22/business/louvre-robbery-jewelry-heist-insurance.html"
+    "https://www.nytimes.com/2025/10/22/business/louvre-robbery-jewelry-heist-insurance.html",
+    "https://www.nytimes.com/2025/10/22/business/tesla-earnings-elon-musk.html"
   ]
 }
