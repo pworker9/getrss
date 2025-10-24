@@ -208,7 +208,9 @@
     "https://markets.businessinsider.com/news/stocks/stock-market-outlook-analysis-forces-explained-trump-trade-rate-cuts-2025-10",
     "https://markets.businessinsider.com/news/stocks/regional-bank-stocks-credit-quality-lending-zions-wal-jefferies-2025-10",
     "https://www.businessinsider.com/bitcoin-treasury-dat-10x-research-crypto-nav-premium-strategy-btc-2025-10",
-    "https://markets.businessinsider.com/news/stocks/ai-spending-capex-tech-tariffs-gdp-growth-data-centers-2025-10"
+    "https://markets.businessinsider.com/news/stocks/ai-spending-capex-tech-tariffs-gdp-growth-data-centers-2025-10",
+    "https://www.businessinsider.com/tesla-q3-earnings-preview-robotaxis-ai-production-timeline-elon-musk-2025-10",
+    "https://markets.businessinsider.com/news/stocks/oil-prices-interest-rates-10-year-treasury-wti-brent-crude-2025-10"
   ],
   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069": [
     "https://www.cnbc.com/2025/08/22/crypto-market-today.html",
@@ -5024,7 +5026,8 @@
     "https://www.prnewswire.com/news-releases/uae-breaks-ground-on-worlds-first-gigascale-round-the-clock-renewable-energy-project-setting-a-new-global-standard-for-clean-energy-302593734.html",
     "https://www.prnewswire.com/news-releases/dmegc-solar-awarded-two-ssi-esg-silver-certifications-demonstrating-industry-leading-performance-302593745.html",
     "https://www.prnewswire.com/news-releases/uae-breaks-ground-on-worlds-first-gigascale-round-the-clock-renewable-energy-project-setting-a-new-global-standard-for-clean-energy-302593744.html",
-    "https://www.prnewswire.com/news-releases/nations-green-tech-in-mining-highlighted-302593740.html"
+    "https://www.prnewswire.com/news-releases/nations-green-tech-in-mining-highlighted-302593740.html",
+    "https://www.prnewswire.com/news-releases/yuchai-launches-new-generation-high-horsepower-yc16vtf-generator-engine-302593618.html"
   ],
   "https://feeds.marketwatch.com/marketwatch/topstories/": [
     "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
@@ -16270,6 +16273,10 @@
     "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-017-4306736",
     "https://www.investing.com/news/stock-market-news/lifco-shares-jump-8-after-profit-sales-rise-on-acquisitions-and-organic-growth-4306731",
     "https://www.investing.com/news/stock-market-news/kion-lowers-restructuring-costs-raises-free-cash-flow-outlook-93CH-4306784",
-    "https://www.investing.com/news/stock-market-news/hensoldt-expects-to-hit-lower-end-of-sales-guidance-strong-order-intake-93CH-4306843"
+    "https://www.investing.com/news/stock-market-news/hensoldt-expects-to-hit-lower-end-of-sales-guidance-strong-order-intake-93CH-4306843",
+    "https://www.investing.com/news/stock-market-news/eu-preliminarily-finds-meta-tiktok-in-breach-of-transparency-obligations-4306906",
+    "https://www.investing.com/news/stock-market-news/turkish-court-throws-out-case-seeking-to-oust-opposition-leader-4306909",
+    "https://www.investing.com/news/stock-market-news/us-trade-tensions-cool-chinas-stock-market-sentiment-trading-volumes-drop-93CH-4306901",
+    "https://www.investing.com/news/stock-market-news/deckers-shares-sink-as-tariffs-economic-uncertainty-weigh-on-demand-4306898"
   ]
 }
