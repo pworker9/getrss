@@ -38217,7 +38217,11 @@
     "https://finance.yahoo.com/news/why-healthcare-services-group-stock-235300658.html",
     "https://finance.yahoo.com/news/lyondellbasell-industries-n-v-lyb-000251931.html",
     "https://finance.yahoo.com/news/coreweave-inc-crwv-bull-case-000311528.html",
-    "https://finance.yahoo.com/news/centuri-holdings-inc-ctri-bull-000514484.html"
+    "https://finance.yahoo.com/news/centuri-holdings-inc-ctri-bull-000514484.html",
+    "https://finance.yahoo.com/news/knight-swift-logs-another-tough-000536152.html",
+    "https://finance.yahoo.com/news/one-best-retailer-stocks-buy-000000528.html",
+    "https://finance.yahoo.com/news/fair-isaac-corporation-fico-bull-001018937.html",
+    "https://finance.yahoo.com/news/warner-bros-discovery-inc-wbd-001024843.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [
@@ -38382,7 +38386,8 @@
     "https://www.foxbusiness.com/economy/government-shutdown-threatens-food-stamps-42-million-americans-insufficient-funds",
     "https://www.foxbusiness.com/economy/trump-administration-eyes-argentine-beef-imports-domestic-prices-soar-record-highs",
     "https://www.foxbusiness.com/economy/oil-prices-surge-trump-hits-russian-energy-giants-sweeping-new-sanctions",
-    "https://www.foxbusiness.com/economy/mortgage-rates-drop-lowest-level-over-year-buyers-regain-leverage"
+    "https://www.foxbusiness.com/economy/mortgage-rates-drop-lowest-level-over-year-buyers-regain-leverage",
+    "https://www.foxbusiness.com/economy/heres-look-most-notorious-insider-trading-scandals-rocked-wall-street"
   ],
   "https://moxie.foxbusiness.com/google-publisher/markets.xml": [
     "https://www.foxbusiness.com/markets/trumps-401k-expansion-fuels-ethereum-boom",
@@ -39322,6 +39327,7 @@
     "https://www.nytimes.com/2025/10/24/business/inflation-report-cpi-federal-reserve.html",
     "https://www.nytimes.com/2025/10/24/business/warner-bros-hollywood-reaction.html",
     "https://www.nytimes.com/2025/10/24/business/with-vibecoding-ai-can-help-anyone-build-an-app.html",
-    "https://www.nytimes.com/2025/10/24/dining/halloween-candy.html"
+    "https://www.nytimes.com/2025/10/24/dining/halloween-candy.html",
+    "https://www.nytimes.com/live/2025/10/24/business/cpi-inflation-tariffs-fed/inflation-report-cpi-federal-reserve"
   ]
 }
