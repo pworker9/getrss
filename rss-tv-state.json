@@ -40676,7 +40676,13 @@
     "https://www.investors.com/news/technology/incyte-stock-incyte-earnings-q3-2025/?src=A00220&yptr=yahoo",
     "https://www.investors.com/news/technology/novartis-stock-novartis-earnings-q3-2025/?src=A00220&yptr=yahoo",
     "https://finance.yahoo.com/news/unitedhealth-lifts-2025-profit-forecast-124621607.html",
-    "https://www.investors.com/news/technology/skyworks-stock-qorvo-chipmakers-agree-to-merge/?src=A00220&yptr=yahoo"
+    "https://www.investors.com/news/technology/skyworks-stock-qorvo-chipmakers-agree-to-merge/?src=A00220&yptr=yahoo",
+    "https://finance.yahoo.com/news/barclays-seeks-cma-licence-expand-130440886.html",
+    "https://finance.yahoo.com/news/goldman-small-businesses-using-ai-say-it-has-a-positive-impact--and-not-because-it-is-replacing-workers-130054910.html",
+    "https://www.investors.com/news/technology/regeneron-stock-regeneron-pharmaceuticals-earnings-q3-2025/?src=A00220&yptr=yahoo",
+    "https://finance.yahoo.com/news/fairfax-financial-holdings-ltd-frfhf-125834167.html",
+    "https://finance.yahoo.com/news/alphyn-capital-management-views-cogent-125625778.html",
+    "https://finance.yahoo.com/news/4-retirement-costs-might-underestimate-123600439.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [
@@ -41838,6 +41844,7 @@
     "https://www.nytimes.com/2025/10/28/travel/dubai-uae-oil-wealth.html",
     "https://www.nytimes.com/2025/10/28/health/tylenol-autism-texas-lawsuit.html",
     "https://www.nytimes.com/2025/10/28/business/dealbook/whatnot-livestream-shopping-fundraise.html",
-    "https://www.nytimes.com/2025/10/28/business/dealbook/bill-gates-climate-pivot.html"
+    "https://www.nytimes.com/2025/10/28/business/dealbook/bill-gates-climate-pivot.html",
+    "https://www.nytimes.com/2025/10/28/business/can-a-start-up-make-computer-chips-cheaper-than-the-industrys-giants.html"
   ]
 }
