@@ -41706,7 +41706,10 @@
     "https://www.investors.com/news/economy/federal-reserve-meeting-oct-rate-cut-end-qt-jerome-powell-sp-500/?src=A00220&yptr=yahoo",
     "https://finance.yahoo.com/news/feds-standing-repo-facility-hits-162050872.html",
     "https://finance.yahoo.com/news/top-stock-movers-now-nvidia-162505168.html",
-    "https://finance.yahoo.com/news/caterpillar-stock-hit-record-wednesday-162337966.html"
+    "https://finance.yahoo.com/news/caterpillar-stock-hit-record-wednesday-162337966.html",
+    "https://finance.yahoo.com/news/tech-company-likely-bankruptcy-affect-164700502.html",
+    "https://finance.yahoo.com/news/cvs-health-forecasts-double-digit-163845447.html",
+    "https://finance.yahoo.com/news/why-nvidia-stock-spiked-again-161755987.html"
   ],
   "http://rss.cnn.com/rss/money_latest.rss": [],
   "https://rss.politico.com/economy.xml": [
@@ -42897,6 +42900,8 @@
     "https://www.nytimes.com/2025/10/29/business/boeing-earnings-third-quarter.html",
     "https://www.nytimes.com/2025/10/29/health/obamacare-prices-health-insurance.html",
     "https://www.nytimes.com/2025/10/29/business/media/shirish-date-white-house-journalist-huffpost.html",
-    "https://www.nytimes.com/2025/10/29/business/economy/fed-interest-rate-loans-mortgages.html"
+    "https://www.nytimes.com/2025/10/29/business/economy/fed-interest-rate-loans-mortgages.html",
+    "https://www.nytimes.com/live/2025/10/29/business/federal-reserve-interest-rates/the-fed-may-soon-stop-reducing-its-debt-and-mortgage-bond-holdings",
+    "https://www.nytimes.com/live/2025/10/29/business/federal-reserve-interest-rates/fed-interest-rates-decision"
   ]
 }
