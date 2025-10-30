@@ -1229,7 +1229,9 @@
     "https://www.cnbc.com/2025/10/30/comcast-wbd-deal-test-trump-regulators.html",
     "https://www.cnbc.com/2025/10/30/comcast-cmcsa-earnings-q3-2025.html",
     "https://www.cnbc.com/2025/10/30/restaurant-brands-international-qsr-q3-2025-earnings.html",
-    "https://www.cnbc.com/2025/10/30/merck-mrk-earnings-q3-2025.html"
+    "https://www.cnbc.com/2025/10/30/merck-mrk-earnings-q3-2025.html",
+    "https://www.cnbc.com/2025/10/30/eli-lilly-lly-earnings-q3-2025.html",
+    "https://www.cnbc.com/2025/10/29/coffee-delivery-is-now-a-1-billion-business-for-starbucks.html"
   ],
   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258": [
     "https://www.cnbc.com/2025/08/22/chocolate-set-to-get-more-expensive-but-2026-outlook-looks-sweeter.html",
@@ -5513,7 +5515,15 @@
     "https://www.prnewswire.com/news-releases/cms-energy-announces-strong-third-quarter-results-raises-2025-adjusted-eps-initiates-2026-guidance-302599097.html",
     "https://www.prnewswire.com/news-releases/rpc-inc-reports-third-quarter-2025-financial-results-and-declares-regular-quarterly-cash-dividend-302599716.html",
     "https://www.prnewswire.com/news-releases/columbus-mckinnon-reports-8-sales-growth-in-q2-fy26-and-reaffirms-guidance-302599228.html",
-    "https://www.prnewswire.com/news-releases/cnx-reports-third-quarter-results-302598487.html"
+    "https://www.prnewswire.com/news-releases/cnx-reports-third-quarter-results-302598487.html",
+    "https://www.prnewswire.com/news-releases/peabody-board-declares-dividend-on-common-stock-302598889.html",
+    "https://www.prnewswire.com/news-releases/rebellions-heartland-3-project-earns-aa-msci-carbon-project-rating-validating-premium-quality-methane-abatement-credits-302599119.html",
+    "https://www.prnewswire.com/news-releases/building-upon-decades-of-power-generation-experience-quanta-expands-its-total-solutions-platform-and-announces-its-selection-by-nisource-to-provide-power-generation-and-grid-infrastructure-solutions-for-a-large-load-customer-302599432.html",
+    "https://www.prnewswire.com/news-releases/quanta-services-reports-third-quarter-2025-results-302599375.html",
+    "https://www.prnewswire.com/news-releases/ametek-announces-record-third-quarter-results-and-raises-full-year-guidance-302598952.html",
+    "https://www.prnewswire.com/news-releases/univers-launches-world-first-global-impact-ai-lab-in-collaboration-with-amd-microsoft-and-nus-to-accelerate-enterprise-ai-and-iot-innovation-302599729.html",
+    "https://www.prnewswire.com/news-releases/timken-to-participate-in-the-baird-global-industrial-conference-302598650.html",
+    "https://www.prnewswire.com/news-releases/jinkosolars-subsidiary-jinko-solar-co-ltd-announces-third-quarter-2025-unaudited-financial-results-302599724.html"
   ],
   "https://feeds.marketwatch.com/marketwatch/topstories/": [
     "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
@@ -7151,7 +7161,8 @@
     "https://www.marketwatch.com/story/whats-in-the-trump-xi-agreement-struck-on-fentanyl-rare-earths-shipbuilding-ace5f6c5?mod=mw_rss_topstories",
     "https://www.marketwatch.com/story/fiserv-attracted-hot-money-ahead-of-44-stock-price-nosedive-dda04e7d?mod=mw_rss_topstories",
     "https://www.marketwatch.com/story/ellen-degeneres-former-35-million-oceanfront-mansion-is-back-on-the-market-182b17b4?mod=mw_rss_topstories",
-    "https://www.marketwatch.com/story/why-junk-bonds-right-now-might-paradoxically-be-a-way-of-reducing-risk-with-stocks-at-record-highs-64169aa5?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/why-junk-bonds-right-now-might-paradoxically-be-a-way-of-reducing-risk-with-stocks-at-record-highs-64169aa5?mod=mw_rss_topstories",
+    "https://www.marketwatch.com/story/why-trumps-bet-on-argentina-was-more-strategic-than-just-a-short-term-winning-trade-075040e1?mod=mw_rss_topstories"
   ],
   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135": [
     "https://www.cnbc.com/2025/08/21/workday-wday-q2-earnings-report-2026.html",
@@ -17899,6 +17910,10 @@
     "https://www.investing.com/news/stock-market-news/merck-posts-higher-thirdquarter-sales-as-keytruda-growth-offsets-drop-from-gardasil-4318682",
     "https://www.investing.com/news/stock-market-news/hf-sinclair-beats-thirdquarter-profit-estimates-4318677",
     "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-068-4318671",
-    "https://www.investing.com/news/stock-market-news/estee-lauder-beats-quarterly-sales-estimates-4318657"
+    "https://www.investing.com/news/stock-market-news/estee-lauder-beats-quarterly-sales-estimates-4318657",
+    "https://www.investing.com/news/stock-market-news/kimberlyclark-beats-quarterly-sales-estimates-as-demand-holds-for-household-staples-4318751",
+    "https://www.investing.com/news/stock-market-news/schneider-electric-beats-organic-growth-forecast-as-ai-boom-fuels-data-centre-demand-4318749",
+    "https://www.investing.com/news/stock-market-news/chinas-largest-banks-report-steady-profits-but-margins-shrink-4318750",
+    "https://www.investing.com/news/stock-market-news/qantas-digital-and-customer-head-steps-down-months-after-cyber-breach-internal-memo-shows-4318693"
   ]
 }
